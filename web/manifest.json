@@ -1,0 +1,35 @@
+{
+    "name": "flappy_dash",
+    "short_name": "flappy_dash",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Flappy Dash is a fast-paced, addictive mobile game that puts your reflexes to the test! Navigate through a series of challenging obstacles by tapping to keep your character airborne. With simple controls and vibrant graphics, Flappy Dash offers an exhilarating experience reminiscent of the classic Flappy Bird game. How far can you dash?",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

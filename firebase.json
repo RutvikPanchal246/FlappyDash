@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flappy-dash-d1d51",
+          "appId": "1:181921047566:android:4901101c32faa2329a885f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "flappy-dash-d1d51",
+          "appId": "1:181921047566:ios:9eef4c34c823fe879a885f",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flappy-dash-d1d51",
+          "configurations": {
+            "android": "1:181921047566:android:4901101c32faa2329a885f",
+            "ios": "1:181921047566:ios:9eef4c34c823fe879a885f",
+            "web": "1:181921047566:web:8c499b4f720cc4039a885f"
+          }
+        }
+      }
+    }
+  }
+}

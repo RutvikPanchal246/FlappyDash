@@ -1,0 +1,49 @@
+name: flappy_dash
+description: "Flappy Dash is a fast-paced, addictive mobile game that puts your reflexes to the test! Navigate through a series of challenging obstacles by tapping to keep your character airborne. With simple controls and vibrant graphics, Flappy Dash offers an exhilarating experience reminiscent of the classic Flappy Bird game. How far can you dash?"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flame: ^1.17.0
+  flame_audio: ^2.10.1
+  get: ^4.6.6
+  shared_preferences: ^2.2.3
+  firebase_core: ^2.30.1
+  games_services: ^4.0.1
+  google_mobile_ads: ^5.0.0
+  url_launcher: ^6.2.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.jpg"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+  fonts:
+    - family: Comfortaa
+      fonts:
+        - asset: fonts/Comfortaa-Medium.ttf
+          weight: 300
+        - asset: fonts/Comfortaa-Regular.ttf
+        - asset: fonts/Comfortaa-SemiBold.ttf
+          weight: 500
+

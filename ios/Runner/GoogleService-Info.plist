@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCWtWjx17e0nQvkH27JQ1UztoLpvpQ9lHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181921047566</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>games.pocket.flappydash.flappyDash</string>
+	<key>PROJECT_ID</key>
+	<string>flappy-dash-d1d51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flappy-dash-d1d51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181921047566:ios:9eef4c34c823fe879a885f</string>
+</dict>
+</plist>

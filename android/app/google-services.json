@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181921047566",
+    "project_id": "flappy-dash-d1d51",
+    "storage_bucket": "flappy-dash-d1d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181921047566:android:4901101c32faa2329a885f",
+        "android_client_info": {
+          "package_name": "games.pocket.flappydash.flappy_dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tgZGvZIPpzybce_9MaWym7fWBGKueiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
